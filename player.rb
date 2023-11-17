@@ -16,11 +16,3 @@ class Player
   end
 
 end
-
-# new_player = Player.new("Player 1")
-# puts new_player.name
-# puts new_player.lives
-# puts new_player.score
-# new_player.lose_life
-# puts new_player.lives
-# puts new_player.score

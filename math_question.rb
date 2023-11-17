@@ -8,7 +8,3 @@ class MathQuestion
     @question = "What does #{@num1} plus #{@num2} equal?"
   end
 end
-
-# new_question = MathQuestion.new
-# puts new_question.question
-# puts new_question.answer  
